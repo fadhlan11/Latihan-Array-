@@ -1,0 +1,2 @@
+module Array3 {
+}
